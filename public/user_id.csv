@@ -1,0 +1,13 @@
+id,name,email,password,register_time
+1,jonas,jono@gmail.com,labas123,"2022-01-01 00:00:00.000000"
+2,petras,petro@gmail.com,nelabas123,"2019-12-31 00:00:00.000000"
+3,juozas,juozo@gmail.com,sveikas123,"2020-07-30 00:00:00.000000"
+4,jurgis,jurgio@gmail.com,nesveikas123,"2018-10-17 00:00:00.000000"
+5,stasys,stasio@gmail.com,aha123,"2022-05-24 00:00:00.000000"
+6,pranas,prano@gmail.com,neaha123,"2017-02-15 00:00:00.000000"
+7,mykolas,mykolo@gmail.com,trully123,"2021-03-15 00:00:00.000000"
+8,vytas,vyto@gmail.com,untrully123,"2015-04-29 00:00:00.000000"
+9,gedas,gedo@gmail.com,false123,"2014-12-21 00:00:00.000000"
+10,adas,ado@gmail.com,nonfalse123,"2022-01-10 00:00:00.000000"
+11,domas,domo@gmail.com,uptown,"2021-06-14 00:00:00.000000"
+12,rokas,roko@gmail.com,downtown123,"2019-03-16 00:00:00.000000"
